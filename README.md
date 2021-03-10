@@ -1,1 +1,1 @@
-# curso-webpack-react
+# Carpeta inicializada para trabajar con React.
